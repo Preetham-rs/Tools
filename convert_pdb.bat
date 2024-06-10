@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Set your input and output directories
-set "input_dir=C:\Users\vikyv\OneDrive\Desktop\test"
+set "input_dir=C:\Users\path\Desktop\test"
 set "template_file=receptor.pdb"
 set "output_dir=%input_dir%\combined_comb"
 
